@@ -25,4 +25,4 @@
 2. 爱好
    - 航天
    - 收集软体动物
-      ![shell](https://cloud.tsinghua.edu.cn/seafhttp/files/1a9422ae-f447-4d2c-af1e-51bac4518e22/未标题-1.png "收藏的螺")
+      ![shell](https://wx2.sinaimg.cn/mw690/005HCWSfly1gnqzzelkwlj34o02c0u1a.jpg "收藏的螺")
