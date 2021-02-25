@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## 个人简介
+### 个人信息
+- **姓名**：沈子杰
+- **学校**：清华大学
+- **院系**：生命学院
+- **实验室**：Ou Lab
 
-You can use the [editor on GitHub](https://github.com/DF-express-11/DF-express-11.GitHub.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### 联系方式
+- **手机**：13588284754
+- **邮箱**： shenzj18@mails.tsinghua.edu.cn
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 社工职务
+1. 院团委调研组副书记
+2. 标本馆志愿讲解队队长
+3. [学堂班](http://xuetangban.life.tsinghua.edu.cn "学堂班主页")班长
 
-### Markdown
+### 其他
+1. 特长
+   - ~~唱~~
+   - ~~跳~~
+   - ~~Rap~~
+   - ~~篮球~~
+   - 干饭
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DF-express-11/DF-express-11.GitHub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+2. 爱好
+   - 航天
+   - 收集软体动物
+      ![shell](URL "https://cloud.tsinghua.edu.cn/lib/5a416580-77df-4e6b-a807-12af3da12b7f/file/未标题-1.png")
